@@ -1,0 +1,20 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Model checkpoints (too large for GitHub)
+vit-potato-disease/
+vit-potato-disease-best/
+logs/
+
+# Dataset (downloaded via kagglehub)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+~$*
