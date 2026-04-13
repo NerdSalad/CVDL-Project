@@ -2,6 +2,7 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+.claude/
 
 # Model checkpoints (too large for GitHub)
 vit-potato-disease/
